@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://giffiles.alphacoders.com/224/224300.gif" alt="Manga Panel Banner" width="100%" />
+  <img src="./header.gif" alt="Manga Panel Banner" width="100%" />
 
   <br/>
 
