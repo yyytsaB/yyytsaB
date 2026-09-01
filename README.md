@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./header.gif" alt="Manga Panel Banner" width="100%" />
+  <img src="./header.gif" alt="Manga Panel Banner" width="80%" />
 
   <br/>
 
