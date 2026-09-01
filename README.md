@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1>hey, i'm sebastian 👋</h1>
+  <h1>seBASTIan bueno </h1>
 
   <p>
     3rd year <b>Computer Science</b> student at <b>Batangas State University</b> · Calamba, PH<br/>
