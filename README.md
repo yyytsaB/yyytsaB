@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. MANGA GIF BANNER -->
-  <img src="https://giffiles.alphacoders.com/224/224300.gif" alt="Manga Panel Banner" width="100%" style="border-radius: 8px; max-height: 320px; object-fit: cover;" />
+  <img src="[https://giffiles.alphacoders.com/224/224300.gif](https://giffiles.alphacoders.com/224/224300.gif)" alt="Manga Panel Banner" width="100%" style="border-radius: 8px; max-height: 320px; object-fit: cover;" />
 
   <br/><br/>
 
