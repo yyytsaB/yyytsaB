@@ -74,5 +74,5 @@
 | | Project | Stack | Description |
 |---|---|---|---|
 | 01 | **[KORY](https://github.com/Sh1do-o)** | `C# · .NET 8 · WinForms · Gemini` | Desktop Gmail assistant for academics — auto-categorizes mail and drafts AI-scored replies |
-| 02 | **[DaTrack](https://github.com/yyytsaB/DATRACK)** | `Kotlin · Jetpack Compose · Room · Android` | Native Android app that forecasts when your prepaid mobile data will run out |
+| 02 | **[DaTRACK](https://github.com/yyytsaB/DATRACK)** | `Kotlin · Jetpack Compose · Room · Android` | Native Android app that forecasts when your prepaid mobile data will run out |
 | 03 | **[MangaMatch](https://github.com/Sh1do-o)** | `Next.js · TypeScript · Prisma · Gemini` | Manga tracker that turns your library into tailored AI recommendations via AniList |
