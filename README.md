@@ -11,8 +11,6 @@
     I build web apps, desktop tools, and AI utilities — and I'm slowly getting into <b>Data Science</b>.
   </p>
 
-  <a href="https://github.com/Sh1do-o"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  &nbsp;
   <a href="https://linkedin.com/in/sebastianbueno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:bstybueno24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
