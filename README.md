@@ -20,10 +20,10 @@
 
 ### 💭 About
 
-- Currently building things at the intersection of **front-end** and **AI**
-- Learning data science on the side — want to eventually do real ML work
-- Comfortable shipping end-to-end: from interfaces all the way to the database
-- When not at the terminal: gaming, gym, court, or manga
+- gaming
+- nag roroblox probably
+- may galaw
+- exp main
 
 ---
 
