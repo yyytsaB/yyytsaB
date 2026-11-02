@@ -7,8 +7,7 @@
   <h1>seBASTIan bueno </h1>
 
   <p>
-    3rd year <b>Computer Science</b> student at <b>Batangas State University</b> · Calamba, PH<br/>
-    I build web apps, desktop tools, and AI utilities — and I'm slowly getting into <b>Data Science</b>.
+    3rd year <b>Computer Science</b> na may bitaw
   </p>
 
   <a href="https://linkedin.com/in/sebastianbueno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
